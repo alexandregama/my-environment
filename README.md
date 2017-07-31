@@ -47,3 +47,7 @@ $ brew tap Homebrew/bundle
 **Can we use Vundle and Pathogen together?**
 
 https://stackoverflow.com/questions/29971431/how-to-use-pathogen-and-vundle-at-the-same-time-with-vim
+
+**Great Vim 101**
+
+https://danielmiessler.com/study/vim/#gs.vz4Kakk

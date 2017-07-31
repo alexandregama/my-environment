@@ -7,7 +7,7 @@
 ```
 
 **To list** 
-
+j
 ```bash 
 $ brew list
 ```
@@ -39,3 +39,11 @@ From [site](https://github.com/Homebrew/homebrew-bundle)
 ```bash
 $ brew tap Homebrew/bundle
 ```
+
+# Vim Tips
+
+- **runtimepath** is the place where vim will search for all plugins
+
+**Can we use Vundle and Pathogen together?**
+
+https://stackoverflow.com/questions/29971431/how-to-use-pathogen-and-vundle-at-the-same-time-with-vim
